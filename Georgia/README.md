@@ -1,6 +1,6 @@
 # Scraping Real Estate Information
 
-Scraping Real Estate Information from Across Tennessee's Most and Least Expensive Cities
+Scraping Real Estate Information from Across Georgia's Most and Least Expensive Cities
 
 #### Information Sources:
 Zillow.com

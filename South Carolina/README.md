@@ -1,6 +1,6 @@
 # Scraping Real Estate Information
 
-Scraping Real Estate Information from Across North Carolina's Most and Least Expensive Cities
+Scraping Real Estate Information from Across South Carolina's Most and Least Expensive Cities
 
 #### Information Sources:
 Zillow.com
